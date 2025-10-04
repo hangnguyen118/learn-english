@@ -1,0 +1,7 @@
+body {
+    margin: unset;
+}
+img, svg, canvas, picture {
+    display: block;
+    max-width: 100%;
+}
